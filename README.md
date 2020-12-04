@@ -3,6 +3,6 @@
 
 Had a go at making a web crawler.
 
-Requires NodeJS.
+Requires [Node](https://nodejs.org/en/).
 
-To start the crawler, run `node main.mjs` in the cloned repo.
+To start the crawler, run `npm i && node .` in the cloned repo.
